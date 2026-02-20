@@ -31,4 +31,9 @@ cd spendsense/frontend && npm install && npm start
 
 ## 👩‍💻 Author
 **Bhavani** — [GitHub](https://github.com/Bhavani178)
+## 📸 Screenshots
+
+![Dashboard](./Dashboard.png)
+
+![Transactions](./Transactions.png)
 
